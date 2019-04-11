@@ -5,14 +5,14 @@ import './index.css';
 class Square extends React.Component {
   render() {
     return (
-      <button className="Sqaure">
+      <button className="Square">
         {/* TODO */}
       </button>
     );
   }
 }
 
-class Board extends React.component {
+class Board extends React.Component {
   renderSquare(i) {
     return <Square />;
   }
