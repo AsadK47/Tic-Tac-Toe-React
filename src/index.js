@@ -5,7 +5,7 @@ import './index.css';
 class Square extends React.Component {
   render() {
     return (
-      <button className="Square">
+      <button className="square">
         {/* TODO */}
       </button>
     );
