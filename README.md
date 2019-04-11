@@ -1,3 +1,7 @@
+# Purpose
+
+A simple tic-tac-toe game made using react. This exercise was instantiated to improve and deepen my understanding of react in a 'learn by doing' style.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
